@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌟 Flutter ToDo App 🌟
 
 Welcome to the Flutter ToDo App – your ultimate task management companion! This app helps you stay organized, productive, and stress-free. Whether you're managing daily chores, work tasks, or personal goals, this app has got you covered.
