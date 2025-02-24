@@ -43,7 +43,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/flutter-todo-app.git
+   git clone https://github.com/SHahd-Ibrahim-Rezq/flutter-todo-app.git
    ```
 
 2. **Navigate to the project:**
@@ -69,7 +69,7 @@ lib/
 │   ├── addTask.png        # 🖼️ Screenshot for adding tasks  
 │   ├── image.png          # 🖼️ General image used  
 │   ├── makeComplete.png   # ✅ Task marked as completed  
-│   ├── removeTaske.png    # 🗑️ Task removal (لاحظ الخطأ الإملائي في اسم الملف "Taske")  
+│   ├── removeTaske.png    # 🗑️ Task removal 
 │   └── taskList.png       # 📃 Screenshot of the task list  
 │  
 ├── pages/  
